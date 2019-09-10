@@ -24,4 +24,4 @@ const loginValidation = (data) => {
 };
 
 module.exports.registerValidation = registerValidation;
-module.exports.registerLogin = loginValidation;
+module.exports.loginValidation = loginValidation;
